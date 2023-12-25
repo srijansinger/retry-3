@@ -1,0 +1,26 @@
+.heading{
+ height: 4.2px;
+ width: 20px;   
+}
+ 
+canvas{
+    box-shadow: 0px;
+    margin: 20px;
+    background-position: center;
+}
+
+.h1{
+    color: aquamarine;
+    font-family: cursive;
+    font-style: italic;
+}
+
+button{
+    position: center;
+}
+.n1{
+    font-size: 0px;
+    font-style: italic;
+    font-family: fantasy;
+    color: white;
+}
